@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Advent of Code banner" />
+  <img src="assets/advent-of-code-serie-png" alt="Advent of Code banner" />
 </p>
 
 In this repository I will be archiving all my solutions to the *Advent Calendar* of programming challenges that is [Advent of Code](https://adventofcode.com/about).
