@@ -27,8 +27,6 @@ lines.forEach((line) => {
     pos === 0 ? (gapRight = 100) : (gapRight = CEILING - pos);
     const newPos = pos + number;
     pos = (newPos % 100) % 100;
-    if (pos === 0) {
-    }
     if (number >= gapRight) {
       let remaining = number - gapRight;
       numberOfZeros += 1 + Math.floor(remaining / 100);
