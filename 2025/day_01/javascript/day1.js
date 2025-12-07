@@ -1,5 +1,4 @@
 const fs = require("fs");
-const path = require("path");
 
 const filePath = "/home/koes/programming/Advent-of-Code/2025/day_01/puzzle_input.txt";
 const filePathTest = "/home/koes/programming/Advent-of-Code/2025/day_01/test_file.txt";
